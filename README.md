@@ -1,6 +1,2 @@
-```
-||||   What I cannot   ||||
-||||   create, I do    ||||
-||||   not understand. ||||
-||||     — Feynman     ||||
-```
+What I cannot create, I do not understand.
+  — Feynman
